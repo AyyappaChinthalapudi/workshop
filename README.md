@@ -15,4 +15,6 @@ this is horizontally
 - cofee
 - tea
 - milk
+how to open hyper links[apssdc](https://www.apssdc.in)
+[ciet college](http://www.chalapathiengg.ac.in/)
 
